@@ -9,15 +9,4 @@ Prompt Structure:
 
 |Prompt|What AI did| Any corrections|
 |------|-----------|----------------|
-I want to change the structure of my
- page. I want every header to have its
-  own card section so that there is 
-  separation between each section. 
-  The files that you modify are styles.css 
-  and Index.html. Keep content the same 
-  and do not touch script.js. Ask me any 
-  questions needed to understand the request, 
-  if any. Explain your proposed changes 
-  and which files they change before modifying 
-  anything.| Added Added separate card sections 
-  for the intro, About Me, Projects, and Fun Fact content.
+I want to change the structure of my page. I want every header to have its own card section so that there is separation between each section. The files that you modify are styles.css and Index.html. Keep content the same and do not touch script.js. Ask me any questions needed to understand the request, if any. Explain your proposed changes and which files they change before modifying anything.| Added Added separate card sections for the intro, About Me, Projects, and Fun Fact content.
